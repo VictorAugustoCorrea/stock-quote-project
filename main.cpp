@@ -12,7 +12,7 @@ static size_t WriteCallback(void* contents, size_t size, size_t nmemb, std::stri
 }
 
 int main() {
-    std::string apiKey = "Y6SDU2TRDEIIDF0U";
+    std::string apiKey = "YOUR_KEY_HERE";
     std::string ticker;
 
     std::cout << "Enter the ticker that you want see: ";
