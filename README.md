@@ -5,7 +5,7 @@ A tiny **command-line tool** that fetches **real-time stock quotes** from the **
 
 ---
 
-## Purpose (English)
+## Purpose
 
 > **Get the latest price of any stock in one line.**  
 > This project is a minimal example of how to call a public REST API, parse JSON, and display clean results – perfect for learning C++ networking or building a personal market watcher.
